@@ -88,8 +88,6 @@ EXEC dbo.UpdateDailyWinners @GameID = '$YourGameID', @WinnerCount = 3;
 
 ## Phát triển và mở rộng
 
-Hệ thống này có thể dễ dàng mở rộng với:
-
 1. **Nhiều loại game** - Thêm các loại game mới vào bảng GameType
 2. **Tính năng xã hội** - Thêm tính năng như chia sẻ, bình luận
 3. **Hệ thống cấp bậc** - Thêm hệ thống cấp bậc cho người chơi
